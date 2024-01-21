@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **KandikondaShivani/KandikondaShivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 
 - ⚡ In order to expand my knowledge and expertise in the sector, I am currently pursuing a master's degree in computer science in the United States. Excitement to venture into uncharted territory and use my strong academic background to benefit the tech community. By exploring technology more thoroughly and in-depth, I hope to broaden my knowledge and expand my skill set.
 
--->
+
